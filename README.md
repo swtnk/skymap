@@ -64,7 +64,11 @@ skymap/
 
 ## 📄 License
 
-This project is provided as-is for educational and exploration purposes.
+**All Rights Reserved** - Proprietary License
+
+Copyright (c) 2026 Celestial Sky Map. All Rights Reserved.
+
+This software is proprietary and confidential. No permission is granted to copy, modify, distribute, or use this software for any commercial or personal purposes. See the [LICENSE](LICENSE) file for full details.
 
 ## 🙏 Acknowledgments
 
